@@ -1,0 +1,159 @@
+---
+# title: "Capacitación en R y herramientas de productividad"
+# author: "Abril 2021"
+format:
+  revealjs:
+    auto-stretch: false
+    margin: 0
+    slide-number: true
+    scrollable: true
+    preview-links: auto
+    logo: imagenes/logo_portada2.png
+    css: ine_quarto_styles.css
+    includes:
+      in-header:
+        - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+    # footer: <https://quarto.org>
+    
+---
+
+#
+
+
+[]{.linea-superior} 
+[]{.linea-inferior} 
+
+
+<img src="imagenes/logo_portada2.png" width="20%"/>  
+
+
+[**CIENCIA DE DATOS PARA EL SECTOR PÚBLICO**]{.big-par .center-justified}
+
+[**La experiencia del Instituto Nacional de Estadísticas**]{.big-par .center-justified}
+
+[**Agosto 2024**]{.big-par .center-justified}
+
+
+## Presentación {transition="convex"}
+
+::: {.panel-tabset}
+
+### [Speaker]{.medium-par}
+
+[**Ignacio Agloni**]{.big-par}
+
+[*Jefe Unidad de Gobierno de Datos - Instituto Nacional de Estadísticas*]{.medium-par} </br>
+[*Sociólogo - Universidad de Chile*]{.medium-par} <br/>
+[*Magister(c) en Tecnologías de la Información - Universidad de Chile*]{.medium-par} </br>
+
+[<img src="imagenes/outlook-icon.png" alt="Outlook" style="width:60px; vertical-align:middle;"/> ifaglonij@ine.gob.cl]{.medium-par}
+
+[<img src="imagenes/GitHub-icon.PNG" alt="GitHub" style="width:40px; vertical-align:middle;"/> [https://github.com/ignacioagloni](https://github.com/ignacioagloni)]{.medium-par}
+
+
+:::
+
+
+## Team de la iniciativa {transition="zoom"}
+
+::: {.panel-tabset}
+
+### [Klaus]{.medium-par}
+
+<br/>
+<br/>
+
+[**Klaus Lehmann**]{.big-par}
+
+[*Coordinador Técnico Proyecto Ciencia de Datos - Subdirección Técnica*]{.medium-par}
+
+### [Jonathan]{.medium-par}
+
+<br/>
+<br/>
+
+[**Jonathan Paredes**]{.big-par}
+
+[*Coordinador de Sección de Estudios de Marcos y Muestras - Departamento de Metodologías e Innovación Estadísticas*]{.medium-par}
+
+### [Ricardo]{.medium-par}
+
+<br/>
+<br/>
+
+[**Ricardo Pizarro**]{.big-par}
+
+[*Analista Senior - Proyecto Ciencia de Datos / Subdirección Técnica*]{.medium-par}
+
+### [Javiera]{.medium-par}
+
+<br/>
+<br/>
+
+[**Javiera Preuss**]{.big-par}
+
+[*Científica de Datos - Proyecto Ciencia de Datos / Subdirección Técnica*]{.medium-par}
+
+### [Ignacio]{.medium-par}
+
+<br/>
+<br/>
+
+[**Ignacio Agloni**]{.big-par}
+
+[*Jefe Proyecto Ciencia de Datos - Subdirección Técnica*]{.medium-par}
+
+:::
+
+## El problema {transition="convex"}
+
+![](imagenes/estandar.JPG){width=600px fig-align="center"}
+
+:::
+
+## La solución {transition="slide"}
+
+<br>
+
+Desarrollo de un programa en R para la implementación del estándar  
+
+<br>
+
+![](imagenes/calidad.png){width=300px fig-align="center"} 
+
+## Impacto {transition="zoom"}
+
+<br>
+
+::: {.incremental .medium-par}
+
+- **Homologación** en la implementación del estándar de calidad dentro del INE<br><br>
+
+- **Reducción de tiempo y errores**<br><br>
+
+- **Simplificación del estándar para usuarios externos**<br><br>
+
+- Creación de una **herramienta gratuita** para la ciudadanía
+
+:::
+
+
+
+#
+
+[]{.linea-superior} 
+[]{.linea-inferior} 
+
+<!---
+ <img src="imagenes/logo_portada2.png" style="width: 20%"/>  
+--->
+
+<img src="imagenes/logo_portada2.png" width="20%"/>  
+
+
+[**GRACIAS**]{.big-par .center-justified}
+
+[**Concurso Funciona! 2023 - Servicio Civil**]{.big-par .center-justified}
+
+[**Febrero 2024**]{.big-par .center-justified}
+
