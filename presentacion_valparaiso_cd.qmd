@@ -48,7 +48,7 @@ format:
 
 [<img src="imagenes/outlook-icon.png" alt="Outlook" style="width:60px; vertical-align:middle;"/> ifaglonij@ine.gob.cl]{.medium-par}
 
-[<img src="imagenes/GitHub-icon.PNG" alt="GitHub" style="width:40px; vertical-align:middle;"/> [https://github.com/ignacioagloni](https://github.com/ignacioagloni)]{.medium-par}
+[<img src="imagenes/GitHub-icon.png" alt="GitHub" style="width:40px; vertical-align:middle;"/> [https://github.com/ignacioagloni](https://github.com/ignacioagloni)]{.medium-par}
 
 
 :::
