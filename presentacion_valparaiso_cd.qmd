@@ -88,7 +88,7 @@ format:
 ### [APIs]{.medium-par}
 
 <div style="text-align: center;">
-  <img src="imagenes/api-restaurante.jpg" style="width:850px;"/>
+  <img src="imagenes/api-restaurante.JPG" style="width:850px;"/>
 </div>
 
 ### [CIUO y CAENES]{.medium-par}
@@ -379,6 +379,35 @@ Alta complejidad por la **alta concurrencia** y necesidad de **actualización r�
 # {background-color="white" transition="slide"}
 
 [Oportunidades y desafíos para la ciencia de datos en el sector público]{.big-par2}
+
+## Oportunidades y desafios {transition="convex"}
+
+::: {.panel-tabset}
+
+### [Oportunidades]{.medium-par}
+
+- La ciencia de datos tiene un gran potencial para **optimizar procesos en el sector público**
+
+- Con el avance tecnológico en *hardware* y el **boom de la inteligencia artificial** se ha abierto un importante **campo interdisciplinario entre los equipos técnicos y de tecnología**
+
+- Se abre la oportunidad de aprovechar **fuentes no tradicionales** de información (imágenes satelitales, datos de telefonía celular, etc.)
+
+- Posibilidad de ampliar la oferta estadística <span>&#8594;</span> **estadísticas experimentales basadas en ciencia de datos**
+
+
+### [Desafios]{.medium-par}
+
+- **No ha sido fácil llegar a donde estamos** (tensión entre lo **urgente** y lo **importante**)
+
+- **Brechas en capital humano en el estado** / sueldos menos competitivos que en el sector privado para equipos de tecnología y nuevos perfiles
+
+- **Poca infraestructura informática** en el Estado y en general **antigua**
+
+- **Restricciones normativas** para la migración a *cloud*, que podría ser más ágil
+
+- Dificultades para la compra de infraestructura informática más moderna 
+
+:::
 
 ## Contacto {transition="convex"}
 
