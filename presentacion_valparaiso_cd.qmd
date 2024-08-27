@@ -234,6 +234,12 @@ Se utilizó un **orquestador de flujos de trabajo (Dagster)**
 
 Y una combinación de modelos **supervisado** (XGBoost) y **no supervisado** (K-Means)
 
+### [Dashboard]{.medium-par}
+
+<div style="text-align: center; display: flex; justify-content: center; align-items: flex-start;">
+  <img src="imagenes/grafico-paradatos.png" style="width:1100px; margin-right: 20px;"/>
+</div>
+
 :::
 
 ## Innominación de documentos con DL {transition="convex"}
