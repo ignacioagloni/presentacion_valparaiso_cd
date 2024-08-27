@@ -62,7 +62,6 @@ format:
 
 - [*Oportunidades y desafíos para la ciencia de datos en el sector público*]{.big-par}
 
-- [*Próximos pasos*]{.big-par}
 
 # {background-color="white" transition="slide"}
 
@@ -233,11 +232,7 @@ Se utilizó un **orquestador de flujos de trabajo (Dagster)**
   <img src="imagenes/dagster.jpg" style="width:600px; margin-right: 20px;"/>
 </div>
 
-Y una combinación de modelos **supervisado** y **no supervisado**
-
-    - Modelo XGBoost (supervisado)
-
-    - Modelo K-means (no supervisado)
+Y una combinación de modelos **supervisado** (XGBoost) y **no supervisado** (K-Means)
 
 :::
 
@@ -325,11 +320,67 @@ El OCR reacciona ante estímulos mínimos como **doble marca**
   <img src="imagenes/solucion-simce.JPG" style="width:600px; margin-right: 20px;"/>
 </div>
 
-
 ::: 
 
-## Contacto {transition="convex"}
+## Predicción de incendios con DL {transition="convex"}
 
+Este es un caso de uso de un **Lago de Datos para Ciencia de Datos en el INE**
+
+Fue desarrollado en conjunto con el **INEGI de México** en el marco de un **proyecto bilateral**
+
+Escogimos como territorio la **región de Valparaíso**, debido a los recientes incendios que han afectado a la región
+
+Se utilizaron **imágenes satelitales** (satélite MODIS) y fuentes externas de datos: **elevacion, temperatura, viento**, entre otros
+
+Se utilizó un modelo de **redes neuronales LSTM**
+
+Se toman datos de 10 días previos y se predice el día 11
+
+Este trabajo se presentó en la **VIII Conferencia de Big Data y Ciencia de Datos** en Bilbao, España, en junio de eeste año
+
+</br>
+[Dashboard](https://cienciadedatos.inegi.org.mx/laboratorio/wildfires/){.big-par .center}
+
+## ¿Dónde está el Censo? {transition="convex"}
+
+::: {.panel-tabset}
+
+### [Censo 2024]{.medium-par}
+
+Requerimiento del equipo de **Censo de Población y Vivienda 2024**
+
+Désarrollo ágil: **~2 meses**
+
+Alta complejidad por la **alta concurrencia** y necesidad de **actualización rápida por contingencias en el terreno**
+
+<div style="text-align: center; display: flex; justify-content: center; align-items: flex-start;">
+  <img src="imagenes/dondeesta1.jpg" style="width:400px; margin-right: 20px;"/>
+  <img src="imagenes/dondeesta2.jpg" style="width:400px; margin-top: 20px;"/>
+</div>
+
+### [Arquitectura]{.medium-par}
+
+<div style="text-align: center; display: flex; justify-content: center; align-items: flex-start;">
+  <img src="imagenes/arquitectura-censo.jpg" style="width:700px; margin-right: 20px;"/>
+</div>
+
+:::
+
+# {background-color="white" transition="slide"}
+
+[Herramientas y arquitectura]{.big-par2}
+
+## Propuesta arquitectura para una oficina estadística {transition="convex"}
+
+<div style="text-align: center; display: flex; justify-content: center; align-items: flex-start;">
+  <img src="imagenes/arquitectura-lago.jpg" style="width:1000px; margin-right: 20px;"/>
+</div>
+
+# {background-color="white" transition="slide"}
+
+[Oportunidades y desafíos para la ciencia de datos en el sector público]{.big-par2}
+
+## Contacto {transition="convex"}
 
 </br>
 </br>
