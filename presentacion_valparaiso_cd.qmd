@@ -397,7 +397,7 @@ Alta complejidad por la **alta concurrencia** y necesidad de **actualización r�
 
 ### [Desafios]{.medium-par}
 
-- **No ha sido fácil llegar a donde estamos** (tensión entre lo **urgente** y lo **importante**)
+- **No ha sido fácil llegar a donde estamos** (tensión entre lo **urgente** y lo **estrétegico**)
 
 - **Brechas en capital humano en el estado** / sueldos menos competitivos que en el sector privado para equipos de tecnología y nuevos perfiles
 
