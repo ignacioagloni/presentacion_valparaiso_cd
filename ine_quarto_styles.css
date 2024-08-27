@@ -97,6 +97,10 @@ Settings for text format
   font-size: 35px;
 }
 
+.big-par2 { /*párrafo grande */
+  font-size: 100px;
+}
+
 .big-par-red { /*párrafo grande y rojo */
   font-size: 40px;
   color: #4a25db;
@@ -332,3 +336,4 @@ Their use is not recommended !!
   padding: 20px;
   background-color: rgba(0, 0, 0, 0.5);
 } */
+
